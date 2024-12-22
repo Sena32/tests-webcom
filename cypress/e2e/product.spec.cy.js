@@ -1,5 +1,4 @@
 /// <reference types="cypress"/>
-import userPage from "../pages/Users/UserPage"
 
 describe('Pesquisa e visualização de produtos', () => {
     beforeEach (() => {      
