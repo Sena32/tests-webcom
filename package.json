@@ -1,0 +1,23 @@
+{
+  "name": "tests-webcom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sena32/tests-webcom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sena32/tests-webcom/issues"
+  },
+  "homepage": "https://github.com/Sena32/tests-webcom#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

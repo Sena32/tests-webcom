@@ -1,0 +1,13 @@
+
+{
+  "signupName": "ailton",
+  "firstName": "ailton",
+  "lastName": "teste",
+  "email": "teste002@test.com",
+  "password": "123",
+  "address": "Rua Teste",
+  "state": "teste",
+  "city": "teste",
+  "zipcode": "8000000",
+  "mobileNumber": "85632222"
+}
